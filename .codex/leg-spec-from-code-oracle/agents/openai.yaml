@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oracle Forms Evidence-First Specifications"
+  short_description: "Extract and incrementally refresh Oracle Forms specs"
+  default_prompt: "Use $leg-spec-from-code-oracle to extract or refresh a complete linked legacy-evidence package for one Oracle Forms module under evidence/features/<feature-slug>/, including all regions, tabs, fields, behavior, database evidence, screenshots, provenance, coverage, and precise source gaps without creating target requirements or target tests."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Curate Oracle Requirements"
+  short_description: "Curate Oracle behavior and error translations"
+  default_prompt: "Use $leg-curate-requirements-oracle to incrementally curate Oracle operations, physical mappings, and constraint-to-application-message translations into linked requirements and an implementation specification."

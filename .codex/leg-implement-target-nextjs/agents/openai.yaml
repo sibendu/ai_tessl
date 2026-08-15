@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implement Target Next.js"
+  short_description: "Implement curated legacy modules in Next.js"
+  default_prompt: "Use $leg-implement-target-nextjs to implement a curated legacy-modernization module in Next.js, including its centralized Oracle constraint-to-application-message translator."

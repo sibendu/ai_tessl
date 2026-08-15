@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oracle Forms Mockup Generation"
+  short_description: "Generate evidence-faithful Oracle Next.js mockups"
+  default_prompt: "Use $leg-generate-mockup-oracle to generate or incrementally improve an evidence-faithful Next.js Oracle Forms modernization mockup, preserve legacy fields, organization, and child-screen launch behavior, and rebuild only the feature-owned mockup when overwrite is true."

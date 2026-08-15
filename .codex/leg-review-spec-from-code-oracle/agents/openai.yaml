@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Oracle Code Evidence"
+  short_description: "Review Oracle evidence for semantic conflicts"
+  default_prompt: "Use $leg-review-spec-from-code-oracle to review one Oracle module evidence package for cross-fact ambiguities and source-backed resolutions."
